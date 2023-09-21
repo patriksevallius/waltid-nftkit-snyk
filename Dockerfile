@@ -34,7 +34,7 @@ FROM docker.io/openpolicyagent/opa:0.50.2-static as opa-env
 
 
 # --- app-env
-FROM openjdk:17-slim-buster AS app-env
+FROM openjdk:21-slim-buster AS app-env
 
 WORKDIR /app
 
