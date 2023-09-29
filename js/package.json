@@ -26,7 +26,7 @@
     "express": "^4.18.2",
     "express-winston": "^4.2.0",
     "near-api-js": "^1.1.0",
-    "winston": "^3.8.2"
+    "winston": "^3.10.0"
   },
   "devDependencies": {
     "@types/bn.js": "^5.1.1",
